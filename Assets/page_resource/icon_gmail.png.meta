@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 2162682608941b74c98ac1ce98c683ef
+guid: 055e816590c24417f92388ec388855f4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -748340570936250456
-    second: ui_wasd_0
-  - first:
-      213: -1587594994697169157
-    second: ui_wasd_1
-  - first:
-      213: -5589865204466184953
-    second: ui_wasd_2
-  - first:
-      213: 4975608917514999869
-    second: ui_wasd_3
+      213: -8675241474248516484
+    second: icon_gmail_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,35 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ui_wasd_0
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 266
-        width: 158
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8afe452373c5d95f0800000000000000
-      internalID: -748340570936250456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ui_wasd_1
+      name: icon_gmail_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 88
-        width: 157
-        height: 158
+        y: 0
+        width: 640
+        height: 480
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf613e583cab7f9e0800000000000000
-      internalID: -1587594994697169157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ui_wasd_2
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 88
-        width: 158
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70d0a71863fcc62b0800000000000000
-      internalID: -5589865204466184953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ui_wasd_3
-      rect:
-        serializedVersion: 2
-        x: 355
-        y: 88
-        width: 157
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d385fb5d2f9ec0540800000000000000
-      internalID: 4975608917514999869
+      spriteID: c7c5ea2b7d95b9780800000000000000
+      internalID: -8675241474248516484
       vertices: []
       indices: 
       edges: []
@@ -222,11 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ui_wasd_0: -748340570936250456
-      ui_wasd_1: -1587594994697169157
-      ui_wasd_2: -5589865204466184953
-      ui_wasd_3: 4975608917514999869
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
